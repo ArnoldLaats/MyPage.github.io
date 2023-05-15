@@ -109,7 +109,7 @@ section{
     font-size: 3.2rem;
     font-weight: 700;
     color: transparent;
-    -webkit-text-stroke: .7px var(--main-color);
+    -webkit-text-stroke: 1.1px var(--main-color);
 }
 
 .home-content p {
@@ -492,10 +492,6 @@ span2{
 .contact {
     min-height: 100%;
     padding-bottom: 7rem;
-}
-
-.contact h1{
-    margin-left: 68rem;
 }
 
 .contact form{
