@@ -584,6 +584,7 @@ span2{
 .img{
     height: 33%;
     width: 33%;
+    background-color: var(--bg-color);
 }
 
 .footer{
